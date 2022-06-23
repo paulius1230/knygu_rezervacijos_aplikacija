@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Maisto užsakymo Aplikacija
+## Knygu rezervavimo Aplikacija
 
 1. Įsikelti projektą į <code>\xampp\htdocs</code>
 2. Atsidaryti command prompt, nueiti į projekto folderį su cd pagalba
@@ -15,19 +15,4 @@
 4. Pasirašyti <code>npm i</code>
 
 
-## Vartotojo teises
 
-<img src="https://i.imgur.com/nE6fSMe.jpg">
-<img src="https://i.imgur.com/6vKzH1b.jpg">
-<img src="https://i.imgur.com/bW6bYd8.jpg">
-<img src="https://i.imgur.com/moZDaTU.jpg">
-
-# Administratoriaus teises
-
-<img src="https://i.imgur.com/ps7JA8u.jpg">
-<img src="https://i.imgur.com/5mdHCe5.jpg">
-<img src="https://i.imgur.com/iE6mfzI.jpg">
-<img src="https://i.imgur.com/XVWlqwz.jpg">
-<img src="https://i.imgur.com/v9hSAEG.jpg">
-<img src="https://i.imgur.com/aHTZhQw.jpg">
-<img src="https://i.imgur.com/yTALIx9.jpg">
